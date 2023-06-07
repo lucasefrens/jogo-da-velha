@@ -1,5 +1,6 @@
 :root {
     --color-dark: #3A4042;
+    --color-light-dark: rgba(58, 64, 66, 0.1);
     --color-light: #FFF;
     --color-first: #F25A70;
 

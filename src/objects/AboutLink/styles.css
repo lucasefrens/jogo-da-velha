@@ -1,7 +1,11 @@
 .about-link {
     font-weight: 700;
     font-size: 14px;
-    color: #707070;
+    color: var(--color-fourth);
     text-decoration: none;
     text-transform: uppercase;
   }
+
+.about-link.-light {
+  color: var(--color-light);
+}

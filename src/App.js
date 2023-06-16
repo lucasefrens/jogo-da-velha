@@ -6,6 +6,7 @@ import About from "./objects/About";
 import AboutLink from "./objects/AboutLink";
 import Header from "./components/Header";
 import Hashtag from "./components/Hashtag";
+import IconClose from "./objects/IconClose";
 
 const App = () => (
   <main className="app">
@@ -15,6 +16,7 @@ const App = () => (
 
     <About>
       <AboutLink className="-light"/>
+      <IconClose />
     </About>
   </main>
 );
